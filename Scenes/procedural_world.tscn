@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://b6v84ufct8v20"]
+
+[node name="Procedural_world" type="Node2D"]
